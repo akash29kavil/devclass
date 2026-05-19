@@ -1,0 +1,2 @@
+# devclass
+For multiple purpose
